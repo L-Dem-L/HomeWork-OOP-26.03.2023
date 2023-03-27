@@ -1,0 +1,10 @@
+// Import libraries css
+
+// Global styles for the app
+@import 'style/global/fonts';
+@import 'style/global/variables';
+@import 'style/global/mixins';
+
+// Local styles for pages and components
+@import url('./style/pages/_about.scss');
+
